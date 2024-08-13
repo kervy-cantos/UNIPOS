@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "UNI POS",
-    "slug": "uni-pos",
+    "name": "expoapp",
+    "slug": "expoapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -53,7 +53,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "77c4a350-8234-4b0c-8494-9cfdffa185b4"
+        "projectId": "18bfc813-6aff-49e4-b100-6c5ca91572b5"
       }
     }
   }
